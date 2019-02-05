@@ -10,3 +10,4 @@ An intelligent service to help you improve your CV/Resume.
 
 ## OutCome
 Winner of a Superlative Prize at McHacks 6
+See a mockup concept [here](https://github.com/realandrewyang/cv.ai-demo)
