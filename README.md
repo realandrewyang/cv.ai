@@ -8,7 +8,7 @@ An intelligent service to help you improve your CV/Resume.
 - Oftentimes, memory was insufficient
 - CORS protocol
 
-## OutCome
+## Outcome
 Winner of a Superlative Prize at McHacks 6
 
 See a mockup concept [here](https://github.com/realandrewyang/cv.ai-demo)
